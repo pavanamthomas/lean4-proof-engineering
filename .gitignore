@@ -1,0 +1,8 @@
+.lake
+*.olean
+*.ilean
+*.trace
+*~
+.DS_Store
+.vscode/
+.lean4-mode/
